@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\TestBinaryInfo\bin\Debug\TestBinaryInfo.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\TestBinaryInfo\bin\Debug\TestBinaryInfo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\TestBinaryInfo\bin\Debug\TestBinaryInfo.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\TestBinaryInfo\bin\Debug\ImageToBinary.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\TestBinaryInfo\bin\Debug\ImageToBinary.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\TestBinaryInfo\obj\Debug\TestBinaryInfo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\TestBinaryInfo\obj\Debug\TestBinaryInfo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\TestBinaryInfo\obj\Debug\TestBinaryInfo.pdb

@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\bin\Debug\ImageToBinary.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\bin\Debug\ImageToBinary.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\bin\Debug\ImageToBinary.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.Main.resources
