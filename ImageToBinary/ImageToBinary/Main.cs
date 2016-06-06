@@ -63,5 +63,15 @@ namespace ImageToBinary
 
             }
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            this.ThePicture.Image = Properties.Resources.NoImage;
+        }
+
+        private void Path_TextChanged(object sender, EventArgs e)
+        {
+            Crop.Enabled = Save.Enabled = this.Path.Text != string.Empty;
+        }
     }
 }
