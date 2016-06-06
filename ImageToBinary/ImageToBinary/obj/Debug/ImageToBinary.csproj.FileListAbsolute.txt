@@ -7,3 +7,6 @@ c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\Image
 c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.exe
 c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.pdb
 c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.Main.resources
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\bin\Debug\ImageToBinary.exe.config
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.exe
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.pdb
