@@ -10,7 +10,7 @@ using ImageToBinary.Class;
 
 namespace TestBinaryInfo
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
