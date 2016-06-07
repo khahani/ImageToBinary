@@ -51,6 +51,7 @@
             // Crop
             // 
             this.Crop.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.Crop.Enabled = false;
             this.Crop.Location = new System.Drawing.Point(285, 253);
             this.Crop.Name = "Crop";
             this.Crop.Size = new System.Drawing.Size(75, 23);
@@ -79,10 +80,12 @@
             this.Path.ReadOnly = true;
             this.Path.Size = new System.Drawing.Size(186, 20);
             this.Path.TabIndex = 3;
+            this.Path.TextChanged += new System.EventHandler(this.Path_TextChanged);
             // 
             // Save
             // 
             this.Save.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.Save.Enabled = false;
             this.Save.Location = new System.Drawing.Point(366, 253);
             this.Save.Name = "Save";
             this.Save.Size = new System.Drawing.Size(75, 23);
@@ -91,7 +94,7 @@
             this.Save.UseVisualStyleBackColor = true;
             this.Save.Click += new System.EventHandler(this.Save_Click);
             // 
-            // Form1
+            // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -101,9 +104,10 @@
             this.Controls.Add(this.Save);
             this.Controls.Add(this.Crop);
             this.Controls.Add(this.ThePicture);
-            this.Name = "Form1";
+            this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Binary Image Saver!";
+            this.Load += new System.EventHandler(this.Main_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ThePicture)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

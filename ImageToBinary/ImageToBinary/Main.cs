@@ -5,7 +5,6 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using ImageToBinary.Class;
 using System.Drawing.Imaging;
@@ -62,6 +61,16 @@ namespace ImageToBinary
                 MessageBox.Show("با موفقیت ذخیره شد.", "Save", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             }
+        }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            this.ThePicture.Image = Properties.Resources.NoImage;
+        }
+
+        private void Path_TextChanged(object sender, EventArgs e)
+        {
+            Crop.Enabled = Save.Enabled = this.Path.Text != string.Empty;
         }
     }
 }

@@ -10,3 +10,9 @@ c:\users\administrator\documents\visual studio 2013\Projects\ImageToBinary\Image
 C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\bin\Debug\ImageToBinary.exe.config
 C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.exe
 C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.pdb
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\bin\Debug\ImageToBinary.exe
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\bin\Debug\ImageToBinary.pdb
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.Main.resources
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\ImageToBinary\ImageToBinary\ImageToBinary\obj\Debug\ImageToBinary.csproj.GenerateResource.Cache
